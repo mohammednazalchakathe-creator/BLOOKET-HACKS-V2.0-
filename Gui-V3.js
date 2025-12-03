@@ -1,3 +1,4 @@
+javascript:
 pass = "syxfer89";
 
 const userInput = prompt("Password:> ");
